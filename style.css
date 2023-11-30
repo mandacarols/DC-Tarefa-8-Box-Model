@@ -1,0 +1,39 @@
+img{
+    height: 400px;
+    width: 400px;
+
+
+    border-width: 20px;
+    border-style: dotted;
+    border-color: rgb(217, 255, 0);
+    border-radius: 50%;
+   
+    box-shadow: inset 26px 6px 23px 33px rgb(104, 236, 104);
+    background-size: cover;
+    padding: 10px;
+
+    outline-width: 56px;
+    outline-style: double;
+    outline-color: yellow;
+
+    margin: auto;
+    margin-top: 80px;
+    margin-left: 70px;
+    
+}
+
+
+.titulo_principal{
+    font-style: italic;
+    font-size: 26px;
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    left: 150px;
+    bottom: 229px;   
+
+}
+   
+
+
+   
